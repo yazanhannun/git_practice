@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is Yazan
+=======
+Hello, I am Yazan
+>>>>>>> master
